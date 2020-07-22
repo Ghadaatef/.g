@@ -1,0 +1,22 @@
+body {
+background-color: 		#ffe8df;
+}
+h1 {
+color: #851d41;
+}
+
+h3 {
+color: #511845;
+}
+
+h4 {
+  color: black;
+}
+
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: #45046a;
+border-width: 5px;
+width: 14%
+}
